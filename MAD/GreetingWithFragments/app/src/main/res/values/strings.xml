@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Greeting With Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message">Hi there, %s!</string>
+</resources>

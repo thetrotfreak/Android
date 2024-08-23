@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodFad</string>
+    <string name="title_activity_food_donation">FoodDonation</string>
+    <string name="title_activity_food_donation_screen">FoodDonationScreen</string>
+</resources>

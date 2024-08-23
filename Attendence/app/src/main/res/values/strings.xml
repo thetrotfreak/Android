@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Attendence</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_text">Click to Add Attendence</string>
+    <string name="page_title">Add Course\n</string>
+    <string name="edit">EDIT\n</string>
+    <string name="content_description_start">Coure Name\n</string>
+    <string name="conducted">Conducted</string>
+    <string name="present">present</string>
+    <string name="select_days">Select Days</string>
+    <string name="monday_checkbox">Monday</string>
+    <string name="tuesday_checkbox">tuesday</string>
+    <string name="wednesday_checkbox">Wednesday</string>
+    <string name="thursday_checkbox">Thursday</string>
+    <string name="friday_checkbox">Friday</string>
+    <string name="saturday_checkbox">Saturday</string>
+    <string name="sunday_checkbox">Sunday</string>
+    <string name="add_button">Add</string>
+    <string name="open">Open Navigation\n</string>
+    <string name="close">Close Navigation\n</string>
+</resources>

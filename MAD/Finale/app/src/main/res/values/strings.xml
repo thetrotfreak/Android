@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finale</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string-array name="products">
+        <item>Garnier Face wash,Makeup Essentials,1600.0</item>
+        <item>Colander,Utensils,400.0</item>
+    </string-array>
+</resources>

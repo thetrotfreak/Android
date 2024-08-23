@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_input"
+        android:icon="@drawable/ic_input"
+        android:title="Input" />
+
+    <!--    <item-->
+    <!--        android:id="@+id/navigation_display"-->
+    <!--        android:icon="@drawable/ic_display"-->
+    <!--        android:title="Display" />-->
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_about"
+        android:title="About" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+</menu>
